@@ -66,6 +66,7 @@ config/local.js
 #
 ################################################
 .next
+backend
 node_modules
 bower_components
 
